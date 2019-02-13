@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: de.clemenskeppler:MaterialSearchView-1.0.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/MaterialSearchView-1.0.4.aar/3ba6f2df78f3aa17025bccb679a849c7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/MaterialSearchView-1.0.4.aar/3ba6f2df78f3aa17025bccb679a849c7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.clemenskeppler/MaterialSearchView/1.0.4/d06ed0203f518ac08507b5ba8c93db86b299d861/MaterialSearchView-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

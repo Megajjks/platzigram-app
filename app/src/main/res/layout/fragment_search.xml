@@ -1,0 +1,27 @@
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.platzi.platzigram.view.fragment.SearchFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <include layout="@layout/actionbar_toolbar"/>
+    <de.clemenskeppler.materialsearchview.MaterialSearchView
+        android:id="@+id/materialSearchView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/hello_blank_fragment"
+        android:gravity="center"
+        />
+
+</android.support.design.widget.CoordinatorLayout>
